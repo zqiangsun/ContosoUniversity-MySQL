@@ -17,7 +17,6 @@ namespace ContosoUniversity
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
             
-            //Test
         }
     }
 }
