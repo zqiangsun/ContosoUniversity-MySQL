@@ -19,5 +19,6 @@ namespace ContosoUniversity.Models
 
         public virtual Course Couuse { get; set; }
         public virtual Student Student { get; set; }
+        //Test
     }
 }
